@@ -1,0 +1,22 @@
+2026-03-12 18:58:29,240 - INFO - Starting API data fetch process
+2026-03-12 18:58:29,241 - INFO - Data directory: .claude\skills\fetchAPI\data\2026-03-12_18-58-29
+2026-03-12 18:58:29,241 - INFO - Log directory: .claude\skills\fetchAPI\logs\2026-03-12_18-58-29
+2026-03-12 18:58:29,620 - INFO - Fetching dim_customer.csv from https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/dim_customer.csv
+2026-03-12 18:58:29,650 - INFO - Fetching dim_store.csv from https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/dim_store.csv
+2026-03-12 18:58:29,653 - INFO - Fetching dim_date.csv from https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/dim_date.csv
+2026-03-12 18:58:29,653 - INFO - Fetching dim_product.csv from https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/dim_product.csv
+2026-03-12 18:58:29,653 - INFO - Fetching fact_sales.csv from https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/fact_sales.csv
+2026-03-12 18:58:29,653 - INFO - Fetching fact_returns.csv from https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/fact_returns.csv
+2026-03-12 18:58:29,787 - INFO - HTTP Request: GET https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/fact_returns.csv "HTTP/1.1 200 OK"
+2026-03-12 18:58:29,788 - INFO - Successfully saved fact_returns.csv (6612 bytes)
+2026-03-12 18:58:29,791 - INFO - HTTP Request: GET https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/dim_date.csv "HTTP/1.1 200 OK"
+2026-03-12 18:58:29,792 - INFO - Successfully saved dim_date.csv (6708 bytes)
+2026-03-12 18:58:29,799 - INFO - HTTP Request: GET https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/dim_product.csv "HTTP/1.1 200 OK"
+2026-03-12 18:58:29,800 - INFO - Successfully saved dim_product.csv (648 bytes)
+2026-03-12 18:58:29,867 - INFO - HTTP Request: GET https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/fact_sales.csv "HTTP/1.1 200 OK"
+2026-03-12 18:58:29,901 - INFO - Successfully saved fact_sales.csv (335457 bytes)
+2026-03-12 18:58:30,042 - INFO - HTTP Request: GET https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/dim_customer.csv "HTTP/1.1 200 OK"
+2026-03-12 18:58:30,043 - INFO - Successfully saved dim_customer.csv (3695 bytes)
+2026-03-12 18:58:31,726 - INFO - HTTP Request: GET https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/dim_store.csv "HTTP/1.1 200 OK"
+2026-03-12 18:58:31,727 - INFO - Successfully saved dim_store.csv (441 bytes)
+2026-03-12 18:58:31,727 - INFO - Fetch complete: 6 successful, 0 failed

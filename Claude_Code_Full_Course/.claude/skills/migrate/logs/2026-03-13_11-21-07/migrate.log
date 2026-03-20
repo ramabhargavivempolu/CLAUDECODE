@@ -1,0 +1,17 @@
+2026-03-13 11:21:07,950 - migrate - INFO - ======================================================================
+2026-03-13 11:21:07,950 - migrate - INFO - DATA MIGRATION PROCESS STARTED
+2026-03-13 11:21:07,950 - migrate - INFO - ======================================================================
+2026-03-13 11:21:07,950 - migrate - INFO - Timestamp: 2026-03-13_11-21-07
+2026-03-13 11:21:07,950 - migrate - INFO - Latest fetch folder: 2026-03-13_11-21-01
+2026-03-13 11:21:07,951 - migrate - INFO - Migrating 6 CSV files from .claude\skills\fetchAPI\data\2026-03-13_11-21-01 to .claude\skills\migrate\data\2026-03-13_11-21-01
+2026-03-13 11:21:07,961 - migrate - INFO - ======================================================================
+2026-03-13 11:21:07,962 - migrate - INFO - MIGRATION SUMMARY
+2026-03-13 11:21:07,962 - migrate - INFO - ======================================================================
+2026-03-13 11:21:07,962 - migrate - INFO - Source: .claude\skills\fetchAPI\data\2026-03-13_11-21-01
+2026-03-13 11:21:07,962 - migrate - INFO - Destination: .claude\skills\migrate\data\2026-03-13_11-21-01
+2026-03-13 11:21:07,962 - migrate - INFO - Total files: 6
+2026-03-13 11:21:07,962 - migrate - INFO - Successfully migrated: 6
+2026-03-13 11:21:07,962 - migrate - INFO - Failed: 0
+2026-03-13 11:21:07,962 - migrate - INFO - 
+Migrated files:
+2026-03-13 11:21:07,963 - migrate - INFO - ======================================================================
