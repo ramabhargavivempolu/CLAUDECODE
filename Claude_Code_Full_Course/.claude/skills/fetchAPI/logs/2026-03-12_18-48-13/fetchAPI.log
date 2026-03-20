@@ -1,0 +1,36 @@
+2026-03-12 18:48:13,262 - INFO - ============================================================
+2026-03-12 18:48:13,262 - INFO - Starting fetchAPI task at 2026-03-12_18-48-13
+2026-03-12 18:48:13,262 - INFO - ============================================================
+2026-03-12 18:48:13,262 - INFO - Data directory: .claude\skills\fetchAPI\data\2026-03-12_18-48-13
+2026-03-12 18:48:13,262 - INFO - Log directory: .claude\skills\fetchAPI\logs\2026-03-12_18-48-13
+2026-03-12 18:48:13,262 - INFO - 
+2026-03-12 18:48:13,262 - INFO - Fetching: dim_customer.csv
+2026-03-12 18:48:13,262 - INFO - URL: https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/dim_customer.csv
+2026-03-12 18:48:13,448 - INFO - 
+2026-03-12 18:48:13,448 - INFO - Fetching: dim_store.csv
+2026-03-12 18:48:13,448 - INFO - URL: https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/dim_store.csv
+2026-03-12 18:48:13,602 - INFO - 
+2026-03-12 18:48:13,602 - INFO - Fetching: dim_date.csv
+2026-03-12 18:48:13,602 - INFO - URL: https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/dim_date.csv
+2026-03-12 18:48:13,759 - INFO - 
+2026-03-12 18:48:13,759 - INFO - Fetching: dim_product.csv
+2026-03-12 18:48:13,759 - INFO - URL: https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/dim_product.csv
+2026-03-12 18:48:13,930 - INFO - 
+2026-03-12 18:48:13,930 - INFO - Fetching: fact_sales.csv
+2026-03-12 18:48:13,930 - INFO - URL: https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/fact_sales.csv
+2026-03-12 18:48:14,180 - INFO - 
+2026-03-12 18:48:14,180 - INFO - Fetching: fact_returns.csv
+2026-03-12 18:48:14,180 - INFO - URL: https://raw.githubusercontent.com/anshlambagit/AnshLambaYoutube/refs/heads/main/DBT_Masterclass/fact_returns.csv
+2026-03-12 18:48:14,363 - INFO - 
+2026-03-12 18:48:14,363 - INFO - ============================================================
+2026-03-12 18:48:14,363 - INFO - SUMMARY
+2026-03-12 18:48:14,363 - INFO - ============================================================
+2026-03-12 18:48:14,363 - INFO - Total URLs: 6
+2026-03-12 18:48:14,363 - INFO - Successful: 6
+2026-03-12 18:48:14,363 - INFO - Failed: 0
+2026-03-12 18:48:14,363 - INFO - 
+2026-03-12 18:48:14,363 - INFO - Successful downloads:
+2026-03-12 18:48:14,365 - INFO - 
+2026-03-12 18:48:14,365 - INFO - ============================================================
+2026-03-12 18:48:14,365 - INFO - fetchAPI task completed
+2026-03-12 18:48:14,365 - INFO - ============================================================
